@@ -11,3 +11,38 @@ youtube.com##.ytp-ad-module
 youtube.com##.ytp-paid-content-overlay
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-channel
+youtube.com##+js(aeld, goAdTagging)
+youtube.com##+js(abort-on-property-read, performance)
+youtube.com##+js(abort-on-property-read, document.write)
+youtube.com##+js(abort-on-property-read, yt.config_)
+youtube.com##+js(abort-on-property-read, ytplayer.config_)
+youtube.com##+js(abort-on-property-read, ytInitialPlayerResponse)
+youtube.com##+js(abort-on-property-write, adAsinOverride)
+youtube.com##+js(abort-on-property-write, adDeviceType)
+youtube.com##+js(abort-on-property-write, adFlags)
+youtube.com##+js(abort-on-property-write, adPlacements)
+youtube.com##+js(abort-on-property-write, adSearchTerm)
+youtube.com##+js(abort-on-property-write, adType)
+youtube.com##+js(abort-on-property-write, adVideoPlacement)
+youtube.com##+js(abort-on-property-write, adxsCh)
+youtube.com##+js(abort-on-property-write, adxUrls)
+youtube.com##+js(abort-on-property-write, clientDevLogger)
+youtube.com##+js(abort-on-property-write, yt.ads_)
+youtube.com##+js(abort-on-property-write, yt.adsLoader_)
+youtube.com##+js(abort-on-property-write, ytcsi)
+youtube.com##+js(abort-on-property-write, ytInitialGuideData)
+youtube.com##+js(abort-on-property-write, ytInitialPlayerResponse)
+youtube.com##.ytp-ce-element
+youtube.com##.video-ads
+youtube.com##.ytp-ad-overlay-close-button
+youtube.com##.ytp-ad-skip-button
+youtube.com##.ytp-ad-overlay-slot
+youtube.com##.ytp-ad-image-overlay
+youtube.com##.ytp-ad-text-overlay
+youtube.com##.ytp-ad-button-text
+youtube.com##.ytp-ad-badge
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytp-ad-progress
+youtube.com##.ytp-ad-player-overlay
+youtube.com##.ytp-ad-overlay-container
+youtube.com##.ytp-ad-overlay
