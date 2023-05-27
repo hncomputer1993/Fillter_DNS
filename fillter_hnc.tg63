@@ -7,6 +7,12 @@ googlesyndication.com
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^$domain=youtube.com
 ||youtubei.googleapis.com^$domain=youtube.com
+||youtube.com/get_video_info?*adformat=*
+||youtube.com/pagead/*adformat=*
+||youtube.com/*/ads?*
+||youtube.com/*/ads/instream*
+||youtube.com/*/player_ias*
+||youtube.com/*/player_ias_ads*
 youtube.com##.video-ads
 youtube.com##.ytp-ad-overlay-container
 youtube.com##.ytp-ad-skip-button
@@ -51,9 +57,3 @@ youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-player-overlay
 youtube.com##.ytp-ad-overlay-container
 youtube.com##.ytp-ad-overlay
-||youtube.com/get_video_info?*adformat=*
-||youtube.com/pagead/*adformat=*
-||youtube.com/*/ads?*
-||youtube.com/*/ads/instream*
-||youtube.com/*/player_ias*
-||youtube.com/*/player_ias_ads*
