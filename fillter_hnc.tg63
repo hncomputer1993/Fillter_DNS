@@ -51,3 +51,9 @@ youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-player-overlay
 youtube.com##.ytp-ad-overlay-container
 youtube.com##.ytp-ad-overlay
+||youtube.com/get_video_info?*adformat=*
+||youtube.com/pagead/*adformat=*
+||youtube.com/*/ads?*
+||youtube.com/*/ads/instream*
+||youtube.com/*/player_ias*
+||youtube.com/*/player_ias_ads*
