@@ -57,3 +57,5 @@ youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-player-overlay
 youtube.com##.ytp-ad-overlay-container
 youtube.com##.ytp-ad-overlay
+www.youtube.com##ytd-movie-renderer
+www.youtube.com##.ytd-expandable-metadata-renderer
